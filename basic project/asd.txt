@@ -1,0 +1,26 @@
+    friend ostream& operator<<(ostream& out, Table& t)
+    {
+        long size = 5;
+        const char formatter = ' ';
+        long counter = 0;
+        long i = 0;
+        out<<"Size is:"<<t.size()<<endl;
+        out<<formatter*5;
+        for (typename map<COL,long>::iterator iter = t.col_map_.begin();
+                iter != t.col_map_.end(); ++iter)
+        {
+            out<<setw(size)<<setfill(formatter)<<iter.first;
+        }
+        out<<endl;
+        for(typename map<ROW,long>::iterator iter = t.row_map_.begin(); 
+                iter != t.row_map_.end(); ++iter)
+        {
+            out<<setw(size)<<setfill(formatter)<<iter->first;
+            for(i; i < counter+t.col_map_.size(); ++i)
+            {
+                out<<setw(size)<<setfill(formatter)<<t.table_[i];
+            }
+            counter = i;
+            out<<endl;
+        }
+    }
