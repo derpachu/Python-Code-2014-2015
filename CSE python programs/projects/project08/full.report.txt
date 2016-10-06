@@ -1,0 +1,12 @@
+name                   ID          department       salary
+Hopper, Grace Murray   62500       32               56239
+Kernighan, Brian       45200       37               27811
+Patterson, David A.    76000       35               35213
+ID      name                       department       salary
+27811   Kernighan, Brian           37               45200
+35213   Patterson, David A.        35               76000
+56239   Hopper, Grace Murray       32               62500
+name                   ID          department       salary
+Hennessy, John L.      88400                    34  24772
+Hopper, Grace Murray   66200       32               56239
+Patterson, David A.    76800       36               35213

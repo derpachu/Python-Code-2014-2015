@@ -1,0 +1,3 @@
+24772 ['Hennessy, John L.', 88400, 34]
+35213 ['Patterson, David A.', 76800, '36']
+56239 ['Hopper, Grace Murray', 66200, '32']

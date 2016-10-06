@@ -1,0 +1,46 @@
+ 46557  37  118000  Turing, Alan                  
+58479  32  153000  Shaw, Mary                    
+16661  35  115000  Lovelace, Ada                 
+57915  36   82000  Landau, Susan                 
+11525  37   68000  Klawe, Maria                  
+99924  37   75000  Zave, Pamela                  
+88474  37  247000  Kernighan, Brian              
+80909  33   98000  Ritchie, Dennis               
+84667  36  190000  Von Rossum, Guido             
+59125  32   92000  Meyer, Bertrand               
+65591  37   55000  Liskov, Barbara               
+61233  34  213000  McNealy, Scott                
+33439  32  112000  Jobs, Steve                   
+64196  36  167000  Harrold, Mary Jean            
+73058  36  120000  Weyuker, Elaine               
+40749  33   55000  Hopcroft, John                
+43189  36  121000  Ullman, Jeffrey D.            
+93591  36  186000  Hoare, Anthony                
+92558  36   91000  Wozniak, Steve                
+87496  33  195000  Knuth, Donald                 
+57171  34  137000  Clarke, Edmund                
+23441  36  199000  Sutherland, Ivan              
+83628  37  179000  Misra, Jay                    
+19392  33  164000  Lamport, Leslie               
+17438  32  105000  Goldwasser, Shafi             
+46558  32  132000  Pearl, Judea                  
+54685  36  156000  Micali, Silvio                
+94357  32  188000  Emmerson, Allen               
+45612  36  204000  Kay, Alan                     
+79317  36  243000  Adleman, Leonard              
+67533  36  233000  Rivest, Ronald                
+55216  33  105000  Shamir, Adi                   
+75907  36   83000  Nygaard, Kristen              
+15854  33  178000  Harmanis, Juris               
+50191  37   73000  Blum, Manuel                  
+62592  36   95000  Tarjan, Robert                
+34531  37  234000  Karp, Richard                 
+65444  34  132000  Wirth, Niklaus                
+43120  36   75000  Dijkstra, Edsger              
+43512  36  133000  Newell, Allen                 
+86302  33  176000  Simon, Herbert                
+62545  37   89000  McCarthy, John                
+80452  33   77000  Minski, Marvin                
+97180  37  189000  Hamming, Richard              
+74640  36   90000  Wilkes, Maurice               
+78485  34  152000  Perlis, Alan                  

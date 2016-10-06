@@ -1,0 +1,18 @@
+import Vector
+
+a = Vector.Vector(0,3)
+b = Vector.Vector(3,0)
+c = Vector.Vector(0,3)
+print(a)
+print(b)
+print(a.magnitude())
+print(b.magnitude())
+print(a+b)
+print(b+a)
+print(a-b)
+print(b-a)
+print(2.0*a)
+print(b*4.0)
+print(a*b)
+print(a == b)
+print(a == c)

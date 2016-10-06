@@ -1,0 +1,7 @@
+Hopper, Grace        100   98
+Knuth, Donald           82    88
+Goldberg, Adele        94   96
+Kernighan, Brian      89  77
+Liskov, Barbara           87 97
+Gregg, Dull           0  100
+Son, Smart            100   100
