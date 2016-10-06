@@ -1,0 +1,7 @@
+a Name something you shouldn't do when a cop pulls you over
+1 DrA 36 28
+2 Tlk 28 22
+3 Swr 18 14
+4 Lau 11 7
+5 Lie 7  4
+0 Cry 0  0

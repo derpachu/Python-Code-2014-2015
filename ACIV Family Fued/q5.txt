@@ -1,0 +1,7 @@
+a Which cafe has the longest line?
+1 Shw 47 8
+2 Bdy 35 6
+3 Hol 7  1
+4 Sny 6  1
+5 Akr 5  1
+0 Stb 0  0

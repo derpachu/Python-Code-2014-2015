@@ -1,0 +1,7 @@
+a Name something that your parents tell you not to waste
+1 Fod 50 7
+2 Mny 19 4
+3 Pwr 12 1
+4 Tme 10 1
+5 Wtr 9  1
+0 Lfe 0  0

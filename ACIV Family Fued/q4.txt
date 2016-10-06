@@ -1,0 +1,5 @@
+a How many days can you wear the same clothes before people notice
+1 2   53 9
+2 3   35 6
+3 10  12 2
+0 365 0  0

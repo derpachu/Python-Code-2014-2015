@@ -1,0 +1,7 @@
+a Name the accent that is the hardest to understand?
+1 Ind 44 8
+2 Asn 22 4
+3 EU  16 3
+4 Aus 11 2
+5 per 7  1
+0 US  0  1
