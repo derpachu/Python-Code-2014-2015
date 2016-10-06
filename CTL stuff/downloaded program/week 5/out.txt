@@ -1,0 +1,13 @@
+ 1 King Arthur: I am your king.
+ 2 Woman: Well, I didn't vote for you.
+ 3 King Arthur: You don't vote for kings.
+ 4 Woman: Well how'd you become king then?
+ 5 [Angelic music plays... ]
+ 6 King Arthur: The Lady of the Lake, her arm clad in the purest
+ 7 shimmering samite held aloft Excalibur from the bosom of the water,
+ 8 signifying by divine providence that I, Arthur, was to carry Excalibur.
+ 9 THAT is why I am your king.
+10 Dennis: [interrupting] Listen, strange women lyin' in ponds distributin'
+11 swords is no basis for a system of government. Supreme executive power
+12 derives from a mandate from the masses, not from some farcical aquatic
+13 ceremony.
